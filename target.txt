@@ -1,0 +1,2 @@
+this text from targrt.txt file
+Hello every body !!!
